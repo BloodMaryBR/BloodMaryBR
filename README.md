@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BloodMaryBR
-- 👀 I’m interested in lern about tecnology
+- 👀 I’m interested in learn about tecnology
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
